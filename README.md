@@ -75,6 +75,4 @@ OR, a text file containing the link to a public online Git repository for your p
 
 Assignment Resources
 
-Mongoose Schemas
-Mongoose Models
-Mongoose-currency
+Mongoose Schemas / Mongoose Models / Mongoose-currency
