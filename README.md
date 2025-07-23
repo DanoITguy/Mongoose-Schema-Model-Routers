@@ -70,7 +70,9 @@ partner.js
 promotion.js
 partnerRouter.js
 promotionRouter.js
-OR, a text file containing the link to a public online Git repository for your project.
+
+
+OR, (MY PREFERRED METHOD) a text file containing the link to a public online Git repository for your project. https://github.com/DanoITguy/Mongoose-Schema-Model-Routers/
 
 
 Assignment Resources
